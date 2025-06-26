@@ -8,9 +8,6 @@ on:
       - 'config/includes/*.dtsi'
       - keymap-drawer/config.yaml
       - .github/workflows/draw-keymaps.yml
-      
-permissions:
-  contents: write
 
 jobs:
   draw:
