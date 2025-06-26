@@ -41,8 +41,8 @@ layers:
   - {t: ␣, h: Shift}
   - {t: ⏎, h: SYM}
   - {t: Esc, h: SYM}
-  - {t: ⌫, h: Shift}
-  - {t: ⌦, h: NUM}
+  - {t: BACKSPACE, h: Shift}
+  - {t: DELETE, h: NUM}
   SYM:
   - {t: '`', h: Gui}
   - '1'
